@@ -1,2 +1,6 @@
 @charset "UTF-8";
 
+img {
+    max-width: 250px;
+    max-height: 250px;
+}
